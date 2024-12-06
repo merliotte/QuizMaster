@@ -4,7 +4,7 @@ export const utLevel2Part1: Question[] = [
   {
     id: '1',
     themeId: '1',
-    levelId: '1-2',
+    levelId: '1-22',
     text: 'La vibration, produisant l\'impulsion de longueur d\'onde la plus courte, pour une fréquence donnée et dans un matériau donné, est:',
     options: [
       'L\'onde longitudinale',
